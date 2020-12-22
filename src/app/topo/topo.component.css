@@ -1,3 +1,7 @@
-.exemplo{
-    color: red;
+.navbar{ 
+    background: #07d307e1;
+}
+
+.navbar-inverse{
+    color: white;
 }
